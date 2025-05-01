@@ -43,13 +43,6 @@ This project highlights my belief in the importance of data analysis and visuali
 1.5 Scope of the Study
 My study focuses on analyzing COVID-19 data specific to the Indian subcontinent and its respective states. The dataset includes comprehensive information on confirmed cases, deaths, recoveries, and other relevant metrics. I will consider time frames and any limitations inherent in the data, such as potential biases or gaps in reporting.
 
-
-
-
-
-
-
-
 CHAPTER 2: LITRATURE  REVIEW
 
 In recent years, numerous studies have analyzed the COVID-19 pandemic, focusing on various aspects such as transmission dynamics, public health responses, and socioeconomic impacts. For example, research by [Author et al. (Year)] highlighted the role of early intervention policies in reducing transmission rates across different countries. Another study by [Author et al. (Year)] examined the demographic factors influencing COVID-19 susceptibility and mortality, finding that older adults and individuals with pre-existing health conditions were disproportionately affected.
@@ -66,13 +59,6 @@ Based on the identified gaps and previous work, this study is guided by the foll
 •	H2: Demographic factors, such as age and pre-existing conditions, significantly influence COVID-19 case severity and outcomes.
 •	H3: Regions with earlier implementation of public health interventions exhibit reduced transmission rates compared to regions with delayed responses.
 The research framework for this study integrates these hypotheses with comprehensive data analysis and visualization methods. By employing exploratory data analysis (EDA) and visualization techniques, I aim to investigate these hypotheses and uncover insights that inform effective public health decisions.
-
-
-
-
-
-
-
 
 CHAPTER 3: METHODOLOGY
 
